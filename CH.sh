@@ -186,4 +186,6 @@ echo "Running getMessage.js..."
 npx hardhat run scripts/getMessage.js --network swisstronik
 echo "Message retrieved."
 
+ok
+
 echo "Done! Subscribe: https://t.me/feature_earning"
